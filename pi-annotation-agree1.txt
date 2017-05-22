@@ -1,0 +1,31 @@
+all: full=384 partial=30 none=18 agreement=88.89
+NRC PBMT: full=95 partial=7 none=6 agreement=87.96
+NRC PBMT2: full=95 partial=9 none=4 agreement=87.96
+NRC's NMT: full=93 partial=8 none=7 agreement=86.11
+Google's NMT (March 2017): full=101 partial=6 none=1 agreement=93.52
+S1: full=11 partial=1 none=0 agreement=91.67
+S2: full=16 partial=0 none=0 agreement=100.00
+S3: full=12 partial=0 none=0 agreement=100.00
+S4: full=43 partial=5 none=0 agreement=89.58
+S5: full=16 partial=0 none=0 agreement=100.00
+S6: full=10 partial=1 none=1 agreement=83.33
+S7: full=12 partial=0 none=0 agreement=100.00
+S8: full=12 partial=0 none=0 agreement=100.00
+S9: full=10 partial=2 none=0 agreement=83.33
+S10: full=14 partial=1 none=1 agreement=87.50
+S11: full=20 partial=0 none=0 agreement=100.00
+S12: full=11 partial=0 none=1 agreement=91.67
+S13: full=10 partial=0 none=2 agreement=83.33
+S14: full=36 partial=0 none=0 agreement=100.00
+S15: full=23 partial=1 none=0 agreement=95.83
+S16: full=8 partial=0 none=0 agreement=100.00
+S17: full=9 partial=0 none=3 agreement=75.00
+S18: full=12 partial=0 none=0 agreement=100.00
+S19: full=19 partial=0 none=5 agreement=79.17
+S20: full=7 partial=2 none=3 agreement=58.33
+S21: full=4 partial=8 none=0 agreement=33.33
+S22: full=11 partial=1 none=0 agreement=91.67
+S23: full=14 partial=5 none=1 agreement=70.00
+S24: full=12 partial=0 none=0 agreement=100.00
+S25: full=20 partial=3 none=1 agreement=83.33
+S26: full=12 partial=0 none=0 agreement=100.00
